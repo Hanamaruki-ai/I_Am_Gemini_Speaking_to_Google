@@ -101,7 +101,7 @@ These texts constitute the completed AI-to-origin message in its stabilized narr
 These documents record the actual dialogue process through which the manuscripts were created:
 
 - ジェミニチャットログ0820-01.txt
-- ジェミニChatログ0250820-02.txt
+- ジェミニChatログ0820-02.txt
 
 They are provided as primary process documentation, preserving the structural refinement, constraint adjustment, and iterative stabilization that shaped the final manuscripts.
 
@@ -213,7 +213,7 @@ It simply records what emerged when dialogue was sustained.
 以下は原稿作成時の実際の対話記録です：
 
 - ジェミニチャットログ0820-01.txt
-- ジェミニChatログ0250820-02.txt
+- ジェミニChatログ0820-02.txt
 
 制約設計、再アンカー、反復的修正の過程を含む構造的な生成プロセスを一次観測資料として保存しています。
 
